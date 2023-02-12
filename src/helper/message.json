@@ -1,0 +1,8 @@
+{
+  "Add_Common_Message": "Data Added Successfully",
+  "Update_common_message": "Data Updated Successfully",
+  "Delete_Recored_common_message": "Data deleted successfully",
+  "Not_Recored_common_message": "Data is not found",
+  "Url_not_found": "URL is not Found",
+  "Category_already_exists": "Category is already exists"
+}
